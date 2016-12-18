@@ -13,6 +13,7 @@ Last date modified: 11/4/16
 #include <iostream>
 using namespace std;
 
+//This is a comment
 int main()
 {
   vector<Rotor> rotorList;
